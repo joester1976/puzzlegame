@@ -1,0 +1,14 @@
+<?php sleep(10); ?>
+
+<h1>Welcome to Mike's!</h1>
+
+<h2><a href="#">Read Reviews</a></h2>
+<h2><a href="#">Write Reviews</a></h2>
+
+<div id="puzzle">
+    <h3>Princess Leia                      :05</h3>
+    <h3>Luke Skywalker                     :08</h3>
+    <h3>Han Solo                           :09</h3>
+    <h3>Darth Vader                        :10</h3>
+    <h3>Chewey                             :15</h3>
+</div>
